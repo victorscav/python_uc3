@@ -8,3 +8,4 @@ if numero < 0:
 
 else:
     print(f("{numero} é 0"))
+    
