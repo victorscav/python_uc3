@@ -2,8 +2,8 @@
 
 
 menu = ["1. Lista", "2. Produto", "3. Sair"]
-contador = 0
 
+contador = 0
 while True:
     print(menu)
     numero = int(input("Digite o número da opção desejada: "))
