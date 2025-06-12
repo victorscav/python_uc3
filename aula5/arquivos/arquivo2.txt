@@ -1,0 +1,3 @@
+Este � um exemplo de arquivo criado com Python.
+Nova linha
+Outra linha
